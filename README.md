@@ -3,6 +3,8 @@
 ## Description
 
 This App, Pokedex, provides a semi-comprehensive list of the Pokemon and their information. To launch, the app will present a list of 800 Pokemons with their ID, Name, and Image. This is a project for Mobile Developers at Berkeley (MDB). 
+
+Updated: See files in Pokedex1. 
 ## Features
 - The users can switch between a list and a grid view
 - An advanced filtering feature where pokemons will appear according to what the users type in
