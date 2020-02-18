@@ -10,7 +10,7 @@ This App, Pokedex, provides a semi-comprehensive list of the Pokemon and their i
 - When clicking on the Pokemon, users will be redirected to a screen with detailed information about their statistics
 
 ## Main Screen
-![picture]()
+![picture](https://github.com/jiaheyi-maggie/Pokedex/blob/master/cardimg.png)
 The Main View consist of 800 Pokemon collections, and users can scroll through. 
 
 
