@@ -10,16 +10,18 @@ This App, Pokedex, provides a semi-comprehensive list of the Pokemon and their i
 - When clicking on the Pokemon, users will be redirected to a screen with detailed information about their statistics
 
 ## Main Screen
-![picture](https://github.com/jiaheyi-maggie/Pokedex/blob/master/cardimg.png, https://github.com/jiaheyi-maggie/Pokedex/blob/master/listimg.png)
 The Main View consist of 800 Pokemon collections, and users can scroll through. 
-
+See the listing here: https://github.com/jiaheyi-maggie/Pokedex/blob/master/listimg.png
+![picture](https://github.com/jiaheyi-maggie/Pokedex/blob/master/cardimg.png)
 
 ## Pokemon Information Screen
+This page shows detailed information about each Pokemon when the users click on it. 
 ![picture](https://github.com/jiaheyi-maggie/Pokedex/blob/master/statimg.png)
 
 
 ## Filter Screen
-![picture](https://github.com/jiaheyi-maggie/Pokedex/blob/master/filterimg.png)
 The advanced filters screen allow users to filter out the Pokemons they are looking for by selecting type buttons and specifying the numers within ID. 
+![picture](https://github.com/jiaheyi-maggie/Pokedex/blob/master/filterimg.png)
+
 
 
