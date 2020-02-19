@@ -2,8 +2,8 @@
 //  PokedexVCViewController.swift
 //  Pokedex
 //
-//  Created by Colin Zhou on 2020-02-13.
-//  Copyright © 2020 Colin Zhou. All rights reserved.
+//  Created by Maggie Yi on 2020-02-13.
+//  Copyright © 2020 Maggie Yi. All rights reserved.
 //
 
 import UIKit
